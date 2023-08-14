@@ -1,6 +1,6 @@
 # InternBot: Navigate Tech Internships with Confidence
 
-## The InternBot app is a powerful tool integrated with Slack that is designed to provide users with valuable information about various technology companies to aid in their internship search. The app not only delivers key facts about each company but also ensures users are well-prepared for interviews and applications by providing potential interview questions, the core values of each company, a direct link to each company's internship website, and more! InternBot streamlines the process of gathering essential information about tech companies, helping users make informed decisions about their career paths.
+## The InternBot app is a powerful tool integrated with Slack that is designed to provide users with valuable information about various technology companies to aid in their internship search. The app not only delivers key facts about each company but also ensures users are well-prepared for interviews and applications by providing potential interview questions, the core values of each company, a direct link to each company's internship website, and more! InternBot streamlines the process of gathering essential information about tech companies, helping users make informed decisions about their career trajectories.
 
 # What InternBot Can Do:
 
