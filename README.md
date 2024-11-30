@@ -1,14 +1,14 @@
 # InternBot: Navigate Tech Internships with Confidence
 
-## The InternBot app is a powerful tool integrated with Slack that is designed to provide users with valuable information about various technology companies to aid in their internship search. The app not only delivers key facts about each company but also ensures users are well-prepared for interviews and applications by providing potential interview questions, the core values of each company, a direct link to each company's internship website, and more! InternBot streamlines the process of gathering essential information about tech companies, helping users make informed decisions about their career trajectories.
+ The InternBot app is a powerful tool integrated with Slack that is designed to provide users with valuable information about various technology companies to aid in their internship search. The app not only delivers key facts about each company but also ensures users are well-prepared for interviews and applications by providing potential interview questions, the core values of each company, a direct link to each company's internship website, and more! InternBot streamlines the process of gathering essential information about tech companies, helping users make informed decisions about their career trajectories.
 
 # What InternBot Can Do:
 
 ## Retrieve Company Information:
-#### Mention a company's name, and InternBot will provide you with essential details such as the current address of their headquarters, local weather, current time, as well as the following information:
+ Mention a company's name, and InternBot will provide you with essential details such as the current address of their headquarters, local weather, current time, as well as the following information:
 
 ## Access Core Values:
-#### Learn about a company's core values to understand its culture and mission.
+ Learn about a company's core values to understand its culture and mission.
 
 ## Discover Company Summaries:
 #### Receive quick summaries about each company.
